@@ -28,7 +28,7 @@ pairs:
 Paring between the top and bottom layeris inverted
 
 5' ATCGGCTA 3'
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| | | | | | | | | |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| | | | | | | | | |  
 3' TAGCCGAT 5'
 
 3' and 5' represent the numner pf sugar  backbones.
@@ -87,17 +87,17 @@ output for amino acids for entire seq:
 ['S', 'I', 'R', 'C', 'W', 'H', 'I', 'S', 'M', 'A', 'Y', '_', 'A', 'W', 'A', 'R']
 
 output ORF:
-['S', 'I', 'R', 'C', 'W', 'H', 'I', 'S', 'M', 'A', 'Y', '_', 'A', 'W', 'A', 'R']
-['V', '_', 'G', 'A', 'G', 'T', 'S', 'V', 'W', 'L', 'T', 'E', 'R', 'G', 'R', 'E']
-['Y', 'K', 'V', 'L', 'A', 'H', 'Q', 'Y', 'G', 'L', 'L', 'S', 'V', 'G', 'A', 'K']
-['L', 'R', 'A', 'H', 'A', 'Q', '_', 'A', 'I', 'L', 'M', 'C', 'Q', 'H', 'L', 'I']
-['F', 'A', 'P', 'T', 'L', 'S', 'K', 'P', 'Y', '_', 'C', 'A', 'S', 'T', 'L', 'Y']
-['S', 'R', 'P', 'R', 'S', 'V', 'S', 'H', 'T', 'D', 'V', 'P', 'A', 'P', 'Y', 'T']
+['S', 'I', 'R', 'C', 'W', 'H', 'I', 'S', 'M', 'A', 'Y', '_', 'A', 'W', 'A', 'R']  
+['V', '_', 'G', 'A', 'G', 'T', 'S', 'V', 'W', 'L', 'T', 'E', 'R', 'G', 'R', 'E']  
+['Y', 'K', 'V', 'L', 'A', 'H', 'Q', 'Y', 'G', 'L', 'L', 'S', 'V', 'G', 'A', 'K']  
+['L', 'R', 'A', 'H', 'A', 'Q', '_', 'A', 'I', 'L', 'M', 'C', 'Q', 'H', 'L', 'I']  
+['F', 'A', 'P', 'T', 'L', 'S', 'K', 'P', 'Y', '_', 'C', 'A', 'S', 'T', 'L', 'Y']  
+['S', 'R', 'P', 'R', 'S', 'V', 'S', 'H', 'T', 'D', 'V', 'P', 'A', 'P', 'Y', 'T']. 
 
-First row continue with the 3 letter set with the numbering starting from the first letter onwards 
+First row continue with the 3 letter set with the numbering starting from the first letter onwards  
 
-the 'S' in the first row is the amino acid corresponding to the 3 letters set starting form the second letter in the DNA sequence "AGT"
+the 'S' in the first row is the amino acid corresponding to the 3 letters set starting form the second letter in the DNA sequence "AGT"  
 
-Second row continue with the 3 letter set with the numbering starting from the Seond letter onwards
+Second row continue with the 3 letter set with the numbering starting from the Seond letter onwards. 
 
-the 'V' in the first row second letter is the amino acid corresponding to the3 letters set starting form the second letter in the DNA sequence "GTA" 
+the 'V' in the first row second letter is the amino acid corresponding to the3 letters set starting form the second letter in the DNA sequence "GTA"   
