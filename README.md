@@ -27,7 +27,7 @@ pairs:
 ### DNA pairing
 Paring between the top and bottom layeris inverted
 
-5' ATCGGCTA 3'
+5' ATCGGCTA 3'  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| | | | | | | | | |  
 3' TAGCCGAT 5'
 
@@ -86,7 +86,7 @@ AGTATAAGGTGCTGGCACATCAGTATGGCTTACTGAGCGTGGGCGCGAAG
 output for amino acids for entire seq:
 ['S', 'I', 'R', 'C', 'W', 'H', 'I', 'S', 'M', 'A', 'Y', '_', 'A', 'W', 'A', 'R']
 
-output ORF:
+output ORF:  
 ['S', 'I', 'R', 'C', 'W', 'H', 'I', 'S', 'M', 'A', 'Y', '_', 'A', 'W', 'A', 'R']  
 ['V', '_', 'G', 'A', 'G', 'T', 'S', 'V', 'W', 'L', 'T', 'E', 'R', 'G', 'R', 'E']  
 ['Y', 'K', 'V', 'L', 'A', 'H', 'Q', 'Y', 'G', 'L', 'L', 'S', 'V', 'G', 'A', 'K']  
