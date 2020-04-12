@@ -28,7 +28,7 @@ pairs:
 Paring between the top and bottom layeris inverted
 
 5' ATCGGCTA 3'  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| | | | | | | | | |  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| | | | | | | | |   
 3' TAGCCGAT 5'
 
 3' and 5' represent the numner pf sugar  backbones.
